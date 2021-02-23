@@ -14,7 +14,7 @@ https://github.com/Marquez-Brown/React-Portfolio
 ## Usage
 
 - List Install a code editor such as Sublime text, Atomic text editor, or Visual Studio.
-- Download the Github repository at https://github.com/Marquez-Brown/updated-portfolio1
+- Download the Github repository at https://github.com/Marquez-Brown/React-Portfolio
 - Edit the files as you see fit in the code editor of your choice.  
 - You may also view the code in the chrome dev tools if using the chrome browser.
 
