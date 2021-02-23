@@ -1,6 +1,7 @@
 {
   "name": "react-portfolio",
   "version": "0.1.0",
+  "homepage": "https://Marquez-Brown.github.io/React-Employee-Directory",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.9",
