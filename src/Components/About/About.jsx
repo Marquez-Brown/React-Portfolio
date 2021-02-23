@@ -54,7 +54,7 @@ const About = () => {
                                   <img src="images/notetaker.png" alt="random img" className="thumbnail mr-3 mb-4"/>
                                 </a>
                                 <a href="https://marquez-brown.github.io/DailyPlanner/">
-                                  <img src="images/notetaker.png" alt="random img" className="thumbnail mr-3 mb-4"/>
+                                  <img src="images/DailyPlanner.png" alt="random img" className="thumbnail mr-3 mb-4"/>
                                 </a>
                                 </div>
                               </div>
