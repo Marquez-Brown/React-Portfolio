@@ -2,37 +2,45 @@
   text-align: center;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+body {
+  background-color: #80C2AF;
+}
+footer {
+  border-top: 5px solid rgb(23, 162, 184);
+}
+h1, h2 {
+  font-family: "Playfair Display", serif;
+  color: #202C39;
+}
+img {
+  height: 350px;
+  width: 350px;
+}
+.jumbotron {
+    background-color: #F29559 ;
+}
+.navbar {
+    background-color: #F29559;
+}
+p {
+  font-family: "Cormorant Garamond", serif;
+  font-size: xx-large;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+#profpic {
+  float: left;
+  margin-right: 5%;
+  margin-left: 3%;
+  height: 275px;
+  width: 200px;
+  border-radius: 50%;
 }
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+#name, #linked, #resume{
+  font-family: "Playfair Display", serif;
+  color: #202C39;
 }
-
-.App-link {
-  color: #61dafb;
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
+@media screen and (max-width: 768px) {
+  .row {
+    margin-right: 5%;
   }
 }

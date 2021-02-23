@@ -3,26 +3,24 @@ import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
 import Header from "./Components/Header/Header";
 import Footer from "./Components/Footer/Footer";
 import 'bootstrap/dist/css/bootstrap.min.css';
-import Portfolio from "./Components/Project/Portfolio";
-import About from "./Components/Project/About";
+import About from "./Components/About/About";
 
 
 function App() {
   return (
-    <Router>
-      <div>
+    
+      <>
+      <Router>
         <Header />
         <Switch>
           <Route exact path="/">
-          <Portfolio /> 
+          <About />
           </Route>
-          <Route exact path="/about">
-            <About />
-          </Route>
+           
         </Switch>
         <Footer />
-      </div>
     </Router>
+    </>
   );
 }
 

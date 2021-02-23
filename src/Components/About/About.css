@@ -1,0 +1,43 @@
+body {
+    background-color: #80C2AF;
+  }
+  footer {
+    border-top: 5px solid rgb(23, 162, 184);
+  }
+  h1, h2 {
+    font-family: "Playfair Display", serif;
+    color: #202C39;
+  }
+  img {
+    height: 350px;
+    width: 350px;
+  }
+  .jumbotron {
+      background-color: #F29559 ;
+  }
+  .navbar {
+      background-color: #F29559;
+  }
+  p {
+    font-family: "Cormorant Garamond", serif;
+    font-size: xx-large;
+  }
+  
+  #profpic {
+    float: left;
+    margin-right: 5%;
+    margin-left: 3%;
+    height: 275px;
+    width: 200px;
+    border-radius: 50%;
+  }
+  #name, #resume{
+    font-family: "Playfair Display", serif;
+    color: #202C39;
+  }
+  @media screen and (max-width: 768px) {
+    .row {
+      margin-right: 5%;
+    }
+  }
+  
