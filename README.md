@@ -6,6 +6,8 @@ This Repository is being used to develop and display the portfolio of Marquez Br
 Since he is currently enrolled in Georgia Tech's Bootcamp Program, this is temporary and is being used to be improved upon gradually over time.
 
 
+Link to working Github Repository
+https://marquez-brown.github.io/React-Portfolio/#/
 
 Link to Github Repository
 https://github.com/Marquez-Brown/React-Portfolio
