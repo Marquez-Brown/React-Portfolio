@@ -34,8 +34,7 @@ const About = () => {
                   <div className="row">
                     <div className="col-md-9">
                       <p>
-                        {" "}
-                        I'm a sofware engineer based in Atlanta, GA specializing
+                        I'm a software engineer based in Atlanta, GA specializing
                         in building and designing exeptional, high-quality
                         websites and applications
                       </p>
